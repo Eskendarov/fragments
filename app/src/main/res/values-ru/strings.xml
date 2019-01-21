@@ -3,4 +3,8 @@
     <string name="app_name">Фрагменты</string>
     <string name="frag1_text">Фрагмент 1</string>
     <string name="frag2_text">Фрагмент 2</string>
+    <string name="add">Добавить</string>
+    <string name="remove">Удалить</string>
+    <string name="replace">Переместить</string>
+    <string name="stack">Добавить в Back Stack</string>
 </resources>
