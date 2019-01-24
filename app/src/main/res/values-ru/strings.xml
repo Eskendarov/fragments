@@ -7,4 +7,6 @@
     <string name="remove">Удалить</string>
     <string name="replace">Переместить</string>
     <string name="stack">Добавить в Back Stack</string>
+    <string name="log">Лог</string>
+    <string name="find">Поиск</string>
 </resources>
